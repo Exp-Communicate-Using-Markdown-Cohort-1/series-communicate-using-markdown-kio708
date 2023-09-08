@@ -9,3 +9,8 @@ I think this is really cool!
 ```
 print("Hello World!")
 ```
+
+## Things I need to do
+- [x] write code
+- [ ] learn css
+- [ ] take a nap
